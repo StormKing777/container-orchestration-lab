@@ -10,6 +10,11 @@ This project shows how to use **Docker** to package an application into a contai
 
 ---
 
+## Video Demonstration
+* **[YouTube: Orchestrating Containers with Kubernetes](LINK_TO_YOUR_VIDEO)**
+
+---
+
 ## 🛠️ Implementation Steps
 1. **Containerizing the App:** Created a "Dockerfile" to turn my project into a **Docker Image**.
 2. **Kubernetes Deployment:** Wrote code to tell Kubernetes how many copies of my app to keep running.
